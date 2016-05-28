@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "0000000",
+    "firebase_url": "https://project-0000000.firebaseio.com",
+    "project_id": "project-0000000",
+    "storage_bucket": "project-0000000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:0000000:android:d3fb470249b37862",
+        "android_client_info": {
+          "package_name": "com.zenus.gcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "0000000-00000.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "api key"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
